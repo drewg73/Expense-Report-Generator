@@ -1,0 +1,667 @@
+ID,STATE,DESTINATION,COUNTY/LOCATION DEFINED,SEASON BEGIN,SEASON END,FY24 Lodging Rate,FY24 M&IE
+1,AL,Birmingham,Jefferson,,,$ 123,$ 69
+2,AL,Gulf Shores,Baldwin,October 1,February 28,$ 137,$ 69
+2,AL,Gulf Shores,Baldwin,March 1,May 31,$ 164,$ 69
+2,AL,Gulf Shores,Baldwin,June 1,July 31,$ 237,$ 69
+2,AL,Gulf Shores,Baldwin,August 1,September 30,$ 137,$ 69
+3,AL,Huntsville,Madison,,,$ 127,$ 74
+460,AL,Mobile,Mobile,October 1,December 31,$ 111,$ 59
+460,AL,Mobile,Mobile,January 1,March 31,$ 120,$ 59
+460,AL,Mobile,Mobile,April 1,September 30,$ 111,$ 59
+6,AR,Hot Springs,Garland,,,$ 111,$ 64
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,October 1,October 31,$ 141,$ 74
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,November 1,February 28,$ 107,$ 74
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,March 1,April 30,$ 139,$ 74
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,May 1,September 30,$ 141,$ 74
+8,AZ,Kayenta,Navajo,,,$ 146,$ 64
+10,AZ,Phoenix / Scottsdale,Maricopa,October 1,January 31,$ 156,$ 69
+10,AZ,Phoenix / Scottsdale,Maricopa,February 1,March 31,$ 235,$ 69
+10,AZ,Phoenix / Scottsdale,Maricopa,April 1,May 31,$ 157,$ 69
+10,AZ,Phoenix / Scottsdale,Maricopa,June 1,August 31,$ 110,$ 69
+10,AZ,Phoenix / Scottsdale,Maricopa,September 1,September 30,$ 156,$ 69
+11,AZ,Sedona,City Limits of Sedona,October 1,December 31,$ 247,$ 79
+11,AZ,Sedona,City Limits of Sedona,January 1,February 28,$ 198,$ 79
+11,AZ,Sedona,City Limits of Sedona,March 1,April 30,$ 313,$ 79
+11,AZ,Sedona,City Limits of Sedona,May 1,August 31,$ 215,$ 79
+11,AZ,Sedona,City Limits of Sedona,September 1,September 30,$ 247,$ 79
+12,AZ,Tucson,Pima,October 1,December 31,$ 120,$ 64
+12,AZ,Tucson,Pima,January 1,March 31,$ 169,$ 64
+12,AZ,Tucson,Pima,April 1,September 30,$ 120,$ 64
+14,CA,Antioch / Brentwood / Concord,Contra Costa,,,$ 165,$ 74
+481,CA,Bakersfield / Ridgecrest,Kern,,,$ 129,$ 64
+16,CA,Barstow / Ontario / Victorville,San Bernardino,,,$ 124,$ 64
+20,CA,Death Valley,Inyo / NAWS China Lake,,,$ 140,$ 69
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,October 1,May 31,$ 124,$ 69
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,June 1,August 31,$ 173,$ 69
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,September 1,September 30,$ 124,$ 69
+21,CA,Fresno,Fresno,,,$ 124,$ 69
+22,CA,Los Angeles,Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica,October 1,October 31,$ 183,$ 74
+22,CA,Los Angeles,Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica,November 1,December 31,$ 169,$ 74
+22,CA,Los Angeles,Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica,January 1,September 30,$ 183,$ 74
+23,CA,Mammoth Lakes,Mono,October 1,November 30,$ 142,$ 79
+23,CA,Mammoth Lakes,Mono,December 1,June 30,$ 178,$ 79
+23,CA,Mammoth Lakes,Mono,July 1,September 30,$ 142,$ 79
+24,CA,Mill Valley / San Rafael / Novato,Marin,October 1,October 31,$ 189,$ 74
+24,CA,Mill Valley / San Rafael / Novato,Marin,November 1,May 31,$ 166,$ 74
+24,CA,Mill Valley / San Rafael / Novato,Marin,June 1,September 30,$ 189,$ 74
+26,CA,Monterey,Monterey,October 1,May 31,$ 184,$ 74
+26,CA,Monterey,Monterey,June 1,August 31,$ 251,$ 74
+26,CA,Monterey,Monterey,September 1,September 30,$ 184,$ 74
+27,CA,Napa,Napa,October 1,November 30,$ 265,$ 79
+27,CA,Napa,Napa,December 1,February 28,$ 195,$ 79
+27,CA,Napa,Napa,March 1,September 30,$ 265,$ 79
+28,CA,Oakhurst,Madera ,October 1,April 30,$ 118,$ 69
+28,CA,Oakhurst,Madera ,May 1,September 30,$ 149,$ 69
+29,CA,Oakland,Alameda,,,$ 189,$ 74
+30,CA,Palm Springs,Riverside,October 1,April 30,$ 184,$ 69
+30,CA,Palm Springs,Riverside,May 1,September 30,$ 142,$ 69
+31,CA,Point Arena / Gualala,Mendocino,,,$ 133,$ 79
+33,CA,Sacramento,Sacramento,,,$ 145,$ 69
+34,CA,San Diego,San Diego,October 1,May 31,$ 194,$ 74
+34,CA,San Diego,San Diego,June 1,August 31,$ 230,$ 74
+34,CA,San Diego,San Diego,September 1,September 30,$ 194,$ 74
+35,CA,San Francisco,San Francisco,October 1,December 31,$ 288,$ 79
+35,CA,San Francisco,San Francisco,January 1,March 31,$ 333,$ 79
+35,CA,San Francisco,San Francisco,April 1,August 31,$ 270,$ 79
+35,CA,San Francisco,San Francisco,September 1,September 30,$ 288,$ 79
+36,CA,San Luis Obispo,San Luis Obispo,October 1,May 31,$ 156,$ 74
+36,CA,San Luis Obispo,San Luis Obispo,June 1,August 31,$ 196,$ 74
+36,CA,San Luis Obispo,San Luis Obispo,September 1,September 30,$ 156,$ 74
+37,CA,San Mateo / Foster City / Belmont,San Mateo,,,$ 222,$ 74
+38,CA,Santa Barbara,Santa Barbara,October 1,June 30,$ 214,$ 74
+38,CA,Santa Barbara,Santa Barbara,July 1,August 31,$ 289,$ 74
+38,CA,Santa Barbara,Santa Barbara,September 1,September 30,$ 214,$ 74
+39,CA,Santa Cruz,Santa Cruz,October 1,May 31,$ 143,$ 69
+39,CA,Santa Cruz,Santa Cruz,June 1,August 31,$ 181,$ 69
+39,CA,Santa Cruz,Santa Cruz,September 1,September 30,$ 143,$ 69
+40,CA,Santa Monica ,City limits of Santa Monica,October 1,May 31,$ 270,$ 79
+40,CA,Santa Monica ,City limits of Santa Monica,June 1,August 31,$ 298,$ 79
+40,CA,Santa Monica ,City limits of Santa Monica,September 1,September 30,$ 270,$ 79
+41,CA,Santa Rosa,Sonoma,,,$ 157,$ 74
+42,CA,South Lake Tahoe,El Dorado,October 1,March 31,$ 173,$ 74
+42,CA,South Lake Tahoe,El Dorado,April 1,May 31,$ 143,$ 74
+42,CA,South Lake Tahoe,El Dorado,June 1,September 30,$ 173,$ 74
+43,CA,Stockton ,San Joaquin,,,$ 140,$ 74
+44,CA,Sunnyvale / Palo Alto / San Jose,Santa Clara,,,$ 245,$ 74
+45,CA,Tahoe City,Placer,,,$ 132,$ 74
+46,CA,Truckee,Nevada ,October 1,February 28,$ 157,$ 79
+46,CA,Truckee,Nevada ,March 1,May 31,$ 137,$ 79
+46,CA,Truckee,Nevada ,June 1,August 31,$ 160,$ 79
+46,CA,Truckee,Nevada ,September 1,September 30,$ 157,$ 79
+47,CA,Visalia,Tulare,,,$ 132,$ 69
+48,CA,West Sacramento / Davis,Yolo,,,$ 138,$ 69
+49,CA,Yosemite National Park,Mariposa,,,$ 186,$ 79
+50,CO,Aspen,Pitkin,October 1,November 30,$ 188,$ 79
+50,CO,Aspen,Pitkin,December 1,March 31,$ 375,$ 79
+50,CO,Aspen,Pitkin,April 1,May 31,$ 147,$ 79
+50,CO,Aspen,Pitkin,June 1,August 31,$ 235,$ 79
+50,CO,Aspen,Pitkin,September 1,September 30,$ 188,$ 79
+52,CO,Boulder / Broomfield,Boulder / Broomfield,October 1,April 30,$ 135,$ 69
+52,CO,Boulder / Broomfield,Boulder / Broomfield,May 1,August 31,$ 176,$ 69
+52,CO,Boulder / Broomfield,Boulder / Broomfield,September 1,September 30,$ 135,$ 69
+53,CO,Colorado Springs,El Paso,October 1,May 31,$ 127,$ 69
+53,CO,Colorado Springs,El Paso,June 1,August 31,$ 178,$ 69
+53,CO,Colorado Springs,El Paso,September 1,September 30,$ 127,$ 69
+54,CO,Cortez,Montezuma,October 1,October 31,$ 134,$ 64
+54,CO,Cortez,Montezuma,November 1,April 30,$ 107,$ 64
+54,CO,Cortez,Montezuma,May 1,September 30,$ 134,$ 64
+55,CO,Crested Butte / Gunnison,Gunnison,October 1,November 30,$ 147,$ 74
+55,CO,Crested Butte / Gunnison,Gunnison,December 1,March 31,$ 175,$ 74
+55,CO,Crested Butte / Gunnison,Gunnison,April 1,May 31,$ 119,$ 74
+55,CO,Crested Butte / Gunnison,Gunnison,June 1,September 30,$ 147,$ 74
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,October 1,October 31,$ 201,$ 79
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,November 1,December 31,$ 153,$ 79
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,January 1,March 31,$ 169,$ 79
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,April 1,September 30,$ 201,$ 79
+427,CO,Douglas ,Douglas,October 1,May 31,$ 115,$ 69
+427,CO,Douglas ,Douglas,June 1,August 31,$ 140,$ 69
+427,CO,Douglas ,Douglas,September 1,September 30,$ 115,$ 69
+57,CO,Durango,La Plata,October 1,May 31,$ 119,$ 74
+57,CO,Durango,La Plata,June 1,September 30,$ 179,$ 74
+58,CO,Fort Collins / Loveland,Larimer,,,$ 117,$ 69
+493,CO,Grand Lake,Grand,October 1,November 30,$ 164,$ 79
+493,CO,Grand Lake,Grand,December 1,March 31,$ 278,$ 79
+493,CO,Grand Lake,Grand,April 1,May 31,$ 121,$ 79
+493,CO,Grand Lake,Grand,June 1,September 30,$ 164,$ 79
+61,CO,Montrose,Montrose,October 1,October 31,$ 150,$ 69
+61,CO,Montrose,Montrose,November 1,May 31,$ 115,$ 69
+61,CO,Montrose,Montrose,June 1,September 30,$ 150,$ 69
+63,CO,Silverthorne / Breckenridge,Summit,October 1,November 30,$ 185,$ 79
+63,CO,Silverthorne / Breckenridge,Summit,December 1,March 31,$ 332,$ 79
+63,CO,Silverthorne / Breckenridge,Summit,April 1,May 31,$ 150,$ 79
+63,CO,Silverthorne / Breckenridge,Summit,June 1,September 30,$ 185,$ 79
+64,CO,Steamboat Springs,Routt,October 1,November 30,$ 158,$ 79
+64,CO,Steamboat Springs,Routt,December 1,March 31,$ 233,$ 79
+64,CO,Steamboat Springs,Routt,April 1,May 31,$ 113,$ 79
+64,CO,Steamboat Springs,Routt,June 1,September 30,$ 158,$ 79
+65,CO,Telluride,San Miguel,October 1,November 30,$ 197,$ 79
+65,CO,Telluride,San Miguel,December 1,March 31,$ 418,$ 79
+65,CO,Telluride,San Miguel,April 1,September 30,$ 197,$ 79
+66,CO,Vail,Eagle,October 1,November 30,$ 208,$ 79
+66,CO,Vail,Eagle,December 1,March 31,$ 485,$ 79
+66,CO,Vail,Eagle,April 1,September 30,$ 208,$ 79
+67,CT,Bridgeport / Danbury,Fairfield,,,$ 139,$ 69
+69,CT,Hartford,Hartford,,,$ 133,$ 69
+71,CT,New Haven,New Haven,,,$ 126,$ 69
+72,CT,New London / Groton,New London,,,$ 125,$ 69
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",October 1,October 31,$ 261,$ 79
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",November 1,February 28,$ 193,$ 79
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",March 1,June 30,$ 258,$ 79
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",July 1,August 31,$ 176,$ 79
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",September 1,September 30,$ 261,$ 79
+77,DE,Lewes,Sussex,October 1,April 30,$ 120,$ 64
+77,DE,Lewes,Sussex,May 1,June 30,$ 180,$ 64
+77,DE,Lewes,Sussex,July 1,August 31,$ 279,$ 64
+77,DE,Lewes,Sussex,September 1,September 30,$ 120,$ 64
+78,DE,Wilmington,New Castle,,,$ 131,$ 64
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,October 1,November 30,$ 161,$ 69
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,December 1,April 30,$ 255,$ 69
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,May 1,September 30,$ 161,$ 69
+80,FL,Bradenton,Manatee,October 1,January 31,$ 152,$ 64
+80,FL,Bradenton,Manatee,February 1,March 31,$ 222,$ 64
+80,FL,Bradenton,Manatee,April 1,September 30,$ 152,$ 64
+81,FL,Cocoa Beach,Brevard,October 1,January 31,$ 163,$ 74
+81,FL,Cocoa Beach,Brevard,February 1,March 31,$ 213,$ 74
+81,FL,Cocoa Beach,Brevard,April 1,September 30,$ 163,$ 74
+82,FL,Daytona Beach,Volusia,October 1,January 31,$ 125,$ 69
+82,FL,Daytona Beach,Volusia,February 1,March 31,$ 170,$ 69
+82,FL,Daytona Beach,Volusia,April 1,July 31,$ 140,$ 69
+82,FL,Daytona Beach,Volusia,August 1,September 30,$ 125,$ 69
+84,FL,Fort Lauderdale,Broward,October 1,December 31,$ 190,$ 69
+84,FL,Fort Lauderdale,Broward,January 1,April 30,$ 250,$ 69
+84,FL,Fort Lauderdale,Broward,May 1,September 30,$ 158,$ 69
+85,FL,Fort Myers,Lee,October 1,November 30,$ 138,$ 64
+85,FL,Fort Myers,Lee,December 1,January 31,$ 201,$ 64
+85,FL,Fort Myers,Lee,February 1,March 31,$ 252,$ 64
+85,FL,Fort Myers,Lee,April 1,September 30,$ 138,$ 64
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,October 1,October 31,$ 186,$ 69
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,November 1,February 28,$ 109,$ 69
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,March 1,May 31,$ 191,$ 69
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,June 1,July 31,$ 305,$ 69
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,August 1,September 30,$ 186,$ 69
+89,FL,Gulf Breeze,Santa Rosa,October 1,February 28,$ 130,$ 59
+89,FL,Gulf Breeze,Santa Rosa,March 1,May 31,$ 166,$ 59
+89,FL,Gulf Breeze,Santa Rosa,June 1,July 31,$ 252,$ 59
+89,FL,Gulf Breeze,Santa Rosa,August 1,September 30,$ 130,$ 59
+91,FL,Key West,Monroe,October 1,November 30,$ 289,$ 69
+91,FL,Key West,Monroe,December 1,April 30,$ 429,$ 69
+91,FL,Key West,Monroe,May 1,July 31,$ 329,$ 69
+91,FL,Key West,Monroe,August 1,September 30,$ 255,$ 69
+95,FL,Miami,Miami-Dade,October 1,November 30,$ 169,$ 69
+95,FL,Miami,Miami-Dade,December 1,March 31,$ 215,$ 69
+95,FL,Miami,Miami-Dade,April 1,May 31,$ 199,$ 69
+95,FL,Miami,Miami-Dade,June 1,September 30,$ 142,$ 69
+96,FL,Naples,Collier,October 1,November 30,$ 169,$ 69
+96,FL,Naples,Collier,December 1,January 31,$ 246,$ 69
+96,FL,Naples,Collier,February 1,April 30,$ 316,$ 69
+96,FL,Naples,Collier,May 1,September 30,$ 169,$ 69
+98,FL,Orlando,Orange,October 1,December 31,$ 140,$ 69
+98,FL,Orlando,Orange,January 1,March 31,$ 170,$ 69
+98,FL,Orlando,Orange,April 1,September 30,$ 140,$ 69
+100,FL,Panama City,Bay,October 1,February 28,$ 146,$ 64
+100,FL,Panama City,Bay,March 1,May 31,$ 165,$ 64
+100,FL,Panama City,Bay,June 1,July 31,$ 258,$ 64
+100,FL,Panama City,Bay,August 1,September 30,$ 146,$ 64
+101,FL,Pensacola ,Escambia,October 1,February 28,$ 133,$ 64
+101,FL,Pensacola ,Escambia,March 1,May 31,$ 156,$ 64
+101,FL,Pensacola ,Escambia,June 1,July 31,$ 214,$ 64
+101,FL,Pensacola ,Escambia,August 1,September 30,$ 133,$ 64
+102,FL,Punta Gorda,Charlotte,October 1,January 31,$ 163,$ 64
+102,FL,Punta Gorda,Charlotte,February 1,March 31,$ 215,$ 64
+102,FL,Punta Gorda,Charlotte,April 1,September 30,$ 107,$ 64
+103,FL,Sarasota,Sarasota,October 1,January 31,$ 167,$ 69
+103,FL,Sarasota,Sarasota,February 1,April 30,$ 211,$ 69
+103,FL,Sarasota,Sarasota,May 1,September 30,$ 130,$ 69
+104,FL,Sebring,Highlands,October 1,January 31,$ 123,$ 64
+104,FL,Sebring,Highlands,February 1,March 31,$ 208,$ 64
+104,FL,Sebring,Highlands,April 1,September 30,$ 123,$ 64
+105,FL,St. Augustine,St. Johns,October 1,November 30,$ 148,$ 69
+105,FL,St. Augustine,St. Johns,December 1,March 31,$ 168,$ 69
+105,FL,St. Augustine,St. Johns,April 1,September 30,$ 148,$ 69
+106,FL,Stuart,Martin,October 1,January 31,$ 132,$ 69
+106,FL,Stuart,Martin,February 1,March 31,$ 215,$ 69
+106,FL,Stuart,Martin,April 1,September 30,$ 132,$ 69
+107,FL,Tallahassee,Leon,October 1,December 31,$ 111,$ 64
+107,FL,Tallahassee,Leon,January 1,March 31,$ 148,$ 64
+107,FL,Tallahassee,Leon,April 1,September 30,$ 111,$ 64
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,October 1,December 31,$ 145,$ 69
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,January 1,April 30,$ 192,$ 69
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,May 1,September 30,$ 145,$ 69
+109,FL,Vero Beach,Indian River,October 1,November 30,$ 192,$ 69
+109,FL,Vero Beach,Indian River,December 1,April 30,$ 294,$ 69
+109,FL,Vero Beach,Indian River,May 1,September 30,$ 192,$ 69
+110,GA,Athens,Clarke,,,$ 120,$ 59
+111,GA,Atlanta,Fulton / Dekalb,October 1,December 31,$ 173,$ 74
+111,GA,Atlanta,Fulton / Dekalb,January 1,March 31,$ 199,$ 74
+111,GA,Atlanta,Fulton / Dekalb,April 1,September 30,$ 173,$ 74
+413,GA,Augusta,Richmond,,,$ 117,$ 59
+115,GA,Jekyll Island / Brunswick,Glynn,October 1,February 28,$ 172,$ 79
+115,GA,Jekyll Island / Brunswick,Glynn,March 1,July 31,$ 224,$ 79
+115,GA,Jekyll Island / Brunswick,Glynn,August 1,September 30,$ 172,$ 79
+494,GA,Marietta,Cobb,,,$ 121,$ 64
+116,GA,Savannah,Chatham,,,$ 147,$ 69
+476,IA,Dallas,Dallas,,,$ 111,$ 69
+118,IA,Des Moines,Polk,,,$ 114,$ 64
+495,ID,Boise,Ada,,,$ 165,$ 74
+120,ID,Coeur d'Alene,Kootenai,October 1,May 31,$ 116,$ 64
+120,ID,Coeur d'Alene,Kootenai,June 1,August 31,$ 185,$ 64
+120,ID,Coeur d'Alene,Kootenai,September 1,September 30,$ 116,$ 64
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,October 1,November 30,$ 183,$ 74
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,December 1,March 31,$ 313,$ 74
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,April 1,May 31,$ 154,$ 74
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,June 1,September 30,$ 275,$ 74
+422,IL,Bolingbrook / Romeoville / Lemont,Will,,,$ 113,$ 64
+123,IL,Chicago,Cook / Lake,October 1,November 30,$ 233,$ 79
+123,IL,Chicago,Cook / Lake,December 1,March 31,$ 146,$ 79
+123,IL,Chicago,Cook / Lake,April 1,June 30,$ 216,$ 79
+123,IL,Chicago,Cook / Lake,July 1,August 31,$ 213,$ 79
+123,IL,Chicago,Cook / Lake,September 1,September 30,$ 233,$ 79
+462,IL,East St. Louis / O'Fallon / Fairview Heights,St. Clair,,,$ 150,$ 64
+124,IL,Oak Brook Terrace,DuPage,,,$ 114,$ 64
+127,IN,Bloomington ,Monroe,October 1,April 30,$ 108,$ 64
+127,IN,Bloomington ,Monroe,May 1,August 31,$ 133,$ 64
+127,IN,Bloomington ,Monroe,September 1,September 30,$ 108,$ 64
+129,IN,Ft. Wayne,Allen,,,$ 108,$ 64
+130,IN,Indianapolis / Carmel,Marion / Hamilton,,,$ 127,$ 69
+131,IN,Lafayette / West Lafayette,Tippecanoe,October 1,July 31,$ 111,$ 64
+131,IN,Lafayette / West Lafayette,Tippecanoe,August 1,September 30,$ 135,$ 64
+137,KS,Kansas City / Overland Park,Wyandotte / Johnson / Leavenworth,,,$ 126,$ 64
+139,KY,Boone,Boone,,,$ 114,$ 64
+436,KY,Kenton,Kenton,,,$ 156,$ 74
+140,KY,Lexington,Fayette,,,$ 116,$ 64
+141,KY,Louisville,Jefferson,October 1,October 31,$ 137,$ 64
+141,KY,Louisville,Jefferson,November 1,January 31,$ 115,$ 64
+141,KY,Louisville,Jefferson,February 1,May 31,$ 149,$ 64
+141,KY,Louisville,Jefferson,June 1,September 30,$ 137,$ 64
+478,LA,Alexandria / Leesville / Natchitoches,Allen / Jefferson Davis / Natchitoches / Rapides / Vernon Parishes,,,$ 109,$ 64
+144,LA,New Orleans,Orleans / Jefferson Parishes,October 1,January 31,$ 162,$ 74
+144,LA,New Orleans,Orleans / Jefferson Parishes,February 1,May 31,$ 184,$ 74
+144,LA,New Orleans,Orleans / Jefferson Parishes,June 1,August 31,$ 143,$ 74
+144,LA,New Orleans,Orleans / Jefferson Parishes,September 1,September 30,$ 162,$ 74
+147,MA,Andover,Essex,,,$ 126,$ 64
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",October 1,October 31,$ 322,$ 79
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",November 1,February 28,$ 197,$ 79
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",March 1,June 30,$ 281,$ 79
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",July 1,August 31,$ 274,$ 79
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",September 1,September 30,$ 322,$ 79
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,October 1,October 31,$ 168,$ 69
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,November 1,April 30,$ 142,$ 69
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,May 1,September 30,$ 168,$ 69
+150,MA,Falmouth,City limits of Falmouth,October 1,April 30,$ 171,$ 69
+150,MA,Falmouth,City limits of Falmouth,May 1,June 30,$ 231,$ 69
+150,MA,Falmouth,City limits of Falmouth,July 1,August 31,$ 383,$ 69
+150,MA,Falmouth,City limits of Falmouth,September 1,September 30,$ 171,$ 69
+151,MA,Hyannis,Barnstable less the city of Falmouth,October 1,June 30,$ 132,$ 69
+151,MA,Hyannis,Barnstable less the city of Falmouth,July 1,August 31,$ 232,$ 69
+151,MA,Hyannis,Barnstable less the city of Falmouth,September 1,September 30,$ 132,$ 69
+152,MA,Martha's Vineyard,Dukes,October 1,May 31,$ 202,$ 79
+152,MA,Martha's Vineyard,Dukes,June 1,September 30,$ 411,$ 79
+153,MA,Nantucket,Nantucket,October 1,May 31,$ 217,$ 79
+153,MA,Nantucket,Nantucket,June 1,September 30,$ 459,$ 79
+154,MA,Northampton,Hampshire,,,$ 146,$ 69
+155,MA,Pittsfield,Berkshire,October 1,May 31,$ 131,$ 64
+155,MA,Pittsfield,Berkshire,June 1,August 31,$ 160,$ 64
+155,MA,Pittsfield,Berkshire,September 1,September 30,$ 131,$ 64
+156,MA,Plymouth / Taunton / New Bedford,Plymouth / Bristol,,,$ 120,$ 69
+157,MA,Quincy,Norfolk,,,$ 150,$ 69
+158,MA,Springfield,Hampden,,,$ 122,$ 64
+160,MA,Worcester,Worcester,,,$ 130,$ 69
+161,MD,Aberdeen / Bel Air / Belcamp,Harford,,,$ 108,$ 64
+162,MD,Annapolis,Anne Arundel,October 1,October 31,$ 147,$ 69
+162,MD,Annapolis,Anne Arundel,November 1,April 30,$ 115,$ 69
+162,MD,Annapolis,Anne Arundel,May 1,September 30,$ 147,$ 69
+163,MD,Baltimore City,Baltimore City,October 1,February 28,$ 137,$ 69
+163,MD,Baltimore City,Baltimore City,March 1,June 30,$ 151,$ 69
+163,MD,Baltimore City,Baltimore City,July 1,September 30,$ 137,$ 69
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,October 1,May 31,$ 139,$ 64
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,June 1,August 31,$ 194,$ 64
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,September 1,September 30,$ 139,$ 64
+473,MD,Centreville,Queen Anne,,,$ 137,$ 64
+165,MD,Columbia,Howard,,,$ 111,$ 69
+170,MD,Ocean City,Worcester,October 1,June 30,$ 141,$ 69
+170,MD,Ocean City,Worcester,July 1,August 31,$ 325,$ 69
+170,MD,Ocean City,Worcester,September 1,September 30,$ 141,$ 69
+171,ME,Bar Harbor / Rockport,Hancock / Knox,October 1,October 31,$ 254,$ 74
+171,ME,Bar Harbor / Rockport,Hancock / Knox,November 1,June 30,$ 164,$ 74
+171,ME,Bar Harbor / Rockport,Hancock / Knox,July 1,August 31,$ 326,$ 74
+171,ME,Bar Harbor / Rockport,Hancock / Knox,September 1,September 30,$ 254,$ 74
+172,ME,Kennebunk / Kittery / Sanford,York ,October 1,October 31,$ 150,$ 69
+172,ME,Kennebunk / Kittery / Sanford,York ,November 1,June 30,$ 115,$ 69
+172,ME,Kennebunk / Kittery / Sanford,York ,July 1,August 31,$ 206,$ 69
+172,ME,Kennebunk / Kittery / Sanford,York ,September 1,September 30,$ 150,$ 69
+173,ME,Portland,Cumberland / Sagadahoc,October 1,October 31,$ 198,$ 64
+173,ME,Portland,Cumberland / Sagadahoc,November 1,June 30,$ 133,$ 64
+173,ME,Portland,Cumberland / Sagadahoc,July 1,August 31,$ 229,$ 64
+173,ME,Portland,Cumberland / Sagadahoc,September 1,September 30,$ 198,$ 64
+175,MI,Ann Arbor,Washtenaw,,,$ 134,$ 69
+178,MI,Detroit,Wayne,,,$ 145,$ 64
+183,MI,Grand Rapids,Kent,,,$ 117,$ 64
+184,MI,Holland,Ottawa,October 1,April 30,$ 126,$ 64
+184,MI,Holland,Ottawa,May 1,June 30,$ 142,$ 64
+184,MI,Holland,Ottawa,July 1,September 30,$ 126,$ 64
+187,MI,Mackinac Island,Mackinac,October 1,October 31,$ 134,$ 74
+187,MI,Mackinac Island,Mackinac,November 1,June 30,$ 127,$ 74
+187,MI,Mackinac Island,Mackinac,July 1,August 31,$ 211,$ 74
+187,MI,Mackinac Island,Mackinac,September 1,September 30,$ 134,$ 74
+188,MI,Midland,Midland,,,$ 127,$ 59
+190,MI,Muskegon,Muskegon,October 1,May 31,$ 107,$ 64
+190,MI,Muskegon,Muskegon,June 1,August 31,$ 144,$ 64
+190,MI,Muskegon,Muskegon,September 1,September 30,$ 107,$ 64
+192,MI,Petoskey,Emmet,October 1,November 30,$ 156,$ 64
+192,MI,Petoskey,Emmet,December 1,June 30,$ 138,$ 64
+192,MI,Petoskey,Emmet,July 1,August 31,$ 249,$ 64
+192,MI,Petoskey,Emmet,September 1,September 30,$ 156,$ 64
+193,MI,Pontiac / Auburn Hills ,Oakland,,,$ 117,$ 64
+195,MI,South Haven,Van Buren,October 1,May 31,$ 107,$ 64
+195,MI,South Haven,Van Buren,June 1,August 31,$ 127,$ 64
+195,MI,South Haven,Van Buren,September 1,September 30,$ 107,$ 64
+196,MI,Traverse City,Grand Traverse,October 1,June 30,$ 134,$ 64
+196,MI,Traverse City,Grand Traverse,July 1,August 31,$ 235,$ 64
+196,MI,Traverse City,Grand Traverse,September 1,September 30,$ 134,$ 64
+199,MN,Duluth,St. Louis,October 1,October 31,$ 200,$ 79
+199,MN,Duluth,St. Louis,November 1,May 31,$ 148,$ 79
+199,MN,Duluth,St. Louis,June 1,September 30,$ 200,$ 79
+201,MN,Minneapolis / St. Paul,Hennepin / Ramsey,,,$ 148,$ 79
+202,MN,Rochester,Olmsted,,,$ 133,$ 64
+204,MO,Kansas City,Jackson / Clay / Cass / Platte,,,$ 126,$ 64
+207,MO,St. Louis,St. Louis / St. Louis City / St. Charles,,,$ 150,$ 64
+477,MS,Oxford,Lafayette,,,$ 119,$ 64
+447,MS,Southaven,Desoto,,,$ 121,$ 59
+211,MS,Starkville ,Oktibbeha,,,$ 118,$ 64
+215,MT,Big Sky / West Yellowstone/Gardiner,Gallatin/Park,October 1,May 31,$ 171,$ 79
+215,MT,Big Sky / West Yellowstone/Gardiner,Gallatin/Park,June 1,September 30,$ 293,$ 79
+426,MT,Helena,Lewis and Clark,,,$ 122,$ 64
+496,MT,Kalispell/Whitefish,Flathead,October 1,June 30,$ 132,$ 64
+496,MT,Kalispell/Whitefish,Flathead,July 1,August 31,$ 243,$ 64
+496,MT,Kalispell/Whitefish,Flathead,September 1,September 30,$ 132,$ 64
+213,MT,Missoula,Missoula,October 1,May 31,$ 126,$ 69
+213,MT,Missoula,Missoula,June 1,September 30,$ 194,$ 69
+216,NC,Asheville ,Buncombe,October 1,December 31,$ 135,$ 64
+216,NC,Asheville ,Buncombe,January 1,March 31,$ 107,$ 64
+216,NC,Asheville ,Buncombe,April 1,September 30,$ 135,$ 64
+217,NC,Atlantic Beach / Morehead City,Carteret,October 1,February 28,$ 115,$ 64
+217,NC,Atlantic Beach / Morehead City,Carteret,March 1,August 31,$ 153,$ 64
+217,NC,Atlantic Beach / Morehead City,Carteret,September 1,September 30,$ 115,$ 64
+218,NC,Chapel Hill,Orange,,,$ 130,$ 74
+219,NC,Charlotte,Mecklenburg,,,$ 129,$ 69
+221,NC,Durham,Durham,,,$ 115,$ 64
+464,NC,Fayetteville,Cumberland,,,$ 123,$ 64
+222,NC,Greensboro,Guilford,October 1,April 30,$ 120,$ 64
+222,NC,Greensboro,Guilford,May 1,September 30,$ 116,$ 64
+224,NC,Kill Devil Hills,Dare,October 1,March 31,$ 118,$ 74
+224,NC,Kill Devil Hills,Dare,April 1,June 30,$ 214,$ 74
+224,NC,Kill Devil Hills,Dare,July 1,September 30,$ 251,$ 74
+227,NC,Raleigh,Wake,,,$ 125,$ 64
+229,NC,Wilmington,New Hanover,,,$ 133,$ 59
+231,NE,Omaha,Douglas,,,$ 115,$ 64
+232,NH,Concord,Merrimack,,,$ 122,$ 64
+233,NH,Conway,Caroll,October 1,February 28,$ 133,$ 69
+233,NH,Conway,Caroll,March 1,June 30,$ 116,$ 69
+233,NH,Conway,Caroll,July 1,August 31,$ 164,$ 69
+233,NH,Conway,Caroll,September 1,September 30,$ 133,$ 69
+234,NH,Durham,Strafford,October 1,June 30,$ 123,$ 59
+234,NH,Durham,Strafford,July 1,August 31,$ 148,$ 59
+234,NH,Durham,Strafford,September 1,September 30,$ 123,$ 59
+235,NH,Laconia,Belknap,October 1,October 31,$ 171,$ 64
+235,NH,Laconia,Belknap,November 1,May 31,$ 140,$ 64
+235,NH,Laconia,Belknap,June 1,September 30,$ 171,$ 64
+236,NH,Lebanon / Lincoln / West Lebanon,Grafton,,,$ 148,$ 59
+237,NH,Manchester,Hillsborough,October 1,February 28,$ 124,$ 64
+237,NH,Manchester,Hillsborough,March 1,April 30,$ 115,$ 64
+237,NH,Manchester,Hillsborough,May 1,September 30,$ 124,$ 64
+238,NH,Portsmouth,Rockingham,October 1,October 31,$ 169,$ 64
+238,NH,Portsmouth,Rockingham,November 1,June 30,$ 125,$ 64
+238,NH,Portsmouth,Rockingham,July 1,August 31,$ 189,$ 64
+238,NH,Portsmouth,Rockingham,September 1,September 30,$ 169,$ 64
+241,NJ,Cherry Hill / Moorestown,Camden / Burlington,,,$ 108,$ 69
+242,NJ,Eatontown / Freehold,Monmouth,October 1,May 31,$ 128,$ 69
+242,NJ,Eatontown / Freehold,Monmouth,June 1,August 31,$ 164,$ 69
+242,NJ,Eatontown / Freehold,Monmouth,September 1,September 30,$ 128,$ 69
+243,NJ,Edison / Piscataway,Middlesex ,,,$ 118,$ 69
+244,NJ,Flemington,Hunterdon,,,$ 127,$ 69
+246,NJ,Newark,Essex / Bergen / Hudson / Passaic,,,$ 147,$ 69
+247,NJ,Parsippany,Morris,,,$ 161,$ 69
+249,NJ,Princeton / Trenton,Mercer,,,$ 137,$ 69
+248,NJ,Somerset,Somerset,,,$ 153,$ 64
+250,NJ,Springfield / Cranford / New Providence,Union,,,$ 130,$ 69
+251,NJ,Toms River,Ocean,October 1,June 30,$ 152,$ 69
+251,NJ,Toms River,Ocean,July 1,August 31,$ 203,$ 69
+251,NJ,Toms River,Ocean,September 1,September 30,$ 152,$ 69
+252,NM,Albuquerque,Bernalillo,October 1,October 31,$ 141,$ 69
+252,NM,Albuquerque,Bernalillo,November 1,February 28,$ 130,$ 69
+252,NM,Albuquerque,Bernalillo,March 1,September 30,$ 141,$ 69
+479,NM,Carlsbad,Eddy,,,$ 212,$ 64
+254,NM,Santa Fe,Santa Fe,October 1,December 31,$ 162,$ 69
+254,NM,Santa Fe,Santa Fe,January 1,February 28,$ 122,$ 69
+254,NM,Santa Fe,Santa Fe,March 1,September 30,$ 162,$ 69
+423,NM,Taos,Taos,,,$ 135,$ 64
+255,NV,Incline Village / Reno / Sparks,Washoe,October 1,June 30,$ 125,$ 69
+255,NV,Incline Village / Reno / Sparks,Washoe,July 1,August 31,$ 152,$ 69
+255,NV,Incline Village / Reno / Sparks,Washoe,September 1,September 30,$ 125,$ 69
+256,NV,Las Vegas,Clark,October 1,March 31,$ 152,$ 69
+256,NV,Las Vegas,Clark,April 1,August 31,$ 120,$ 69
+256,NV,Las Vegas,Clark,September 1,September 30,$ 152,$ 69
+258,NY,Albany,Albany,,,$ 114,$ 69
+269,NY,Binghamton,Broome,,,$ 113,$ 64
+260,NY,Buffalo,Erie,,,$ 117,$ 69
+261,NY,Floral Park / Garden City / Great Neck,Nassau,,,$ 151,$ 74
+262,NY,Glens Falls,Warren,October 1,June 30,$ 119,$ 69
+262,NY,Glens Falls,Warren,July 1,August 31,$ 198,$ 69
+262,NY,Glens Falls,Warren,September 1,September 30,$ 119,$ 69
+277,NY,Ithaca,Tompkins,,,$ 139,$ 74
+264,NY,Kingston,Ulster,,,$ 141,$ 69
+265,NY,Lake Placid,Essex,October 1,February 28,$ 169,$ 79
+265,NY,Lake Placid,Essex,March 1,June 30,$ 140,$ 79
+265,NY,Lake Placid,Essex,July 1,August 31,$ 220,$ 79
+265,NY,Lake Placid,Essex,September 1,September 30,$ 169,$ 79
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,October 1,December 31,$ 315,$ 79
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,January 1,February 28,$ 169,$ 79
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,March 1,June 30,$ 258,$ 79
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,July 1,August 31,$ 225,$ 79
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,September 1,September 30,$ 315,$ 79
+267,NY,Niagara Falls,Niagara,October 1,May 31,$ 107,$ 69
+267,NY,Niagara Falls,Niagara,June 1,August 31,$ 141,$ 69
+267,NY,Niagara Falls,Niagara,September 1,September 30,$ 107,$ 69
+268,NY,Nyack / Palisades,Rockland,,,$ 126,$ 69
+270,NY,Poughkeepsie,Dutchess,,,$ 113,$ 69
+271,NY,Riverhead / Ronkonkoma / Melville,Suffolk,,,$ 150,$ 69
+272,NY,Rochester,Monroe,,,$ 119,$ 69
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,October 1,June 30,$ 121,$ 64
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,July 1,August 31,$ 204,$ 64
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,September 1,September 30,$ 121,$ 64
+274,NY,Syracuse / Oswego,Onondaga / Oswego,,,$ 116,$ 64
+275,NY,Tarrytown / White Plains / New Rochelle,Westchester,,,$ 151,$ 74
+276,NY,Troy ,Rensselaer,,,$ 118,$ 64
+278,NY,West Point,Orange,,,$ 121,$ 64
+281,OH,Canton,Stark,October 1,June 30,$ 107,$ 64
+281,OH,Canton,Stark,July 1,August 31,$ 116,$ 64
+281,OH,Canton,Stark,September 1,September 30,$ 107,$ 64
+282,OH,Cincinnati,Hamilton / Clermont,,,$ 156,$ 74
+283,OH,Cleveland,Cuyahoga,,,$ 150,$ 69
+284,OH,Columbus,Franklin,,,$ 122,$ 64
+285,OH,Dayton / Fairborn,Greene / Montgomery,,,$ 111,$ 64
+287,OH,Hamilton,Butler / Warren,,,$ 122,$ 59
+289,OH,Mentor,Lake,,,$ 110,$ 59
+280,OH,Sandusky,Erie,October 1,February 28,$ 115,$ 64
+280,OH,Sandusky,Erie,March 1,August 31,$ 152,$ 64
+280,OH,Sandusky,Erie,September 1,September 30,$ 115,$ 64
+295,OK,Oklahoma City,Oklahoma,,,$ 110,$ 64
+298,OR,Beaverton,Washington,,,$ 136,$ 64
+299,OR,Bend,Deschutes,October 1,May 31,$ 126,$ 64
+299,OR,Bend,Deschutes,June 1,August 31,$ 191,$ 64
+299,OR,Bend,Deschutes,September 1,September 30,$ 126,$ 64
+300,OR,Clackamas,Clackamas,October 1,May 31,$ 127,$ 64
+300,OR,Clackamas,Clackamas,June 1,August 31,$ 148,$ 64
+300,OR,Clackamas,Clackamas,September 1,September 30,$ 127,$ 64
+302,OR,Eugene / Florence,Lane,October 1,May 31,$ 132,$ 64
+302,OR,Eugene / Florence,Lane,June 1,July 31,$ 206,$ 64
+302,OR,Eugene / Florence,Lane,August 1,September 30,$ 132,$ 64
+304,OR,Lincoln City,Lincoln,October 1,June 30,$ 131,$ 69
+304,OR,Lincoln City,Lincoln,July 1,August 31,$ 202,$ 69
+304,OR,Lincoln City,Lincoln,September 1,September 30,$ 131,$ 69
+305,OR,Portland,Multnomah,October 1,October 31,$ 182,$ 74
+305,OR,Portland,Multnomah,November 1,May 31,$ 152,$ 74
+305,OR,Portland,Multnomah,June 1,September 30,$ 182,$ 74
+306,OR,Seaside,Clatsop,October 1,January 31,$ 130,$ 69
+306,OR,Seaside,Clatsop,February 1,June 30,$ 135,$ 69
+306,OR,Seaside,Clatsop,July 1,August 31,$ 222,$ 69
+306,OR,Seaside,Clatsop,September 1,September 30,$ 130,$ 69
+307,PA,Allentown / Easton / Bethlehem,Lehigh / Northampton,,,$ 118,$ 64
+313,PA,Bucks,Bucks,,,$ 119,$ 64
+309,PA,Chester / Radnor / Essington,Delaware,,,$ 124,$ 64
+311,PA,Gettysburg,Adams,,,$ 110,$ 64
+312,PA,Harrisburg,Dauphin County excluding Hershey,,,$ 121,$ 64
+489,PA,Hershey,Hershey,October 1,October 31,$ 156,$ 74
+489,PA,Hershey,Hershey,November 1,May 31,$ 133,$ 74
+489,PA,Hershey,Hershey,June 1,August 31,$ 203,$ 74
+489,PA,Hershey,Hershey,September 1,September 30,$ 156,$ 74
+314,PA,Lancaster,Lancaster,,,$ 121,$ 59
+315,PA,Malvern / Frazer / Berwyn,Chester,,,$ 129,$ 64
+435,PA,Montgomery,Montgomery,,,$ 126,$ 69
+317,PA,Philadelphia,Philadelphia,October 1,November 30,$ 211,$ 79
+317,PA,Philadelphia,Philadelphia,December 1,February 28,$ 157,$ 79
+317,PA,Philadelphia,Philadelphia,March 1,June 30,$ 210,$ 79
+317,PA,Philadelphia,Philadelphia,July 1,August 31,$ 169,$ 79
+317,PA,Philadelphia,Philadelphia,September 1,September 30,$ 211,$ 79
+318,PA,Pittsburgh,Allegheny,,,$ 136,$ 64
+319,PA,Reading,Berks,,,$ 121,$ 59
+321,PA,State College ,Centre,,,$ 114,$ 69
+322,RI,East Greenwich / Warwick,Kent,,,$ 108,$ 69
+323,RI,Jamestown / Middletown / Newport,Newport ,October 1,October 31,$ 231,$ 64
+323,RI,Jamestown / Middletown / Newport,Newport ,November 1,May 31,$ 143,$ 64
+323,RI,Jamestown / Middletown / Newport,Newport ,June 1,August 31,$ 284,$ 64
+323,RI,Jamestown / Middletown / Newport,Newport ,September 1,September 30,$ 231,$ 64
+325,RI,Providence / Bristol,Providence / Bristol,,,$ 155,$ 64
+326,SC,Charleston,Charleston / Berkeley / Dorchester,October 1,February 28,$ 249,$ 79
+326,SC,Charleston,Charleston / Berkeley / Dorchester,March 1,May 31,$ 303,$ 79
+326,SC,Charleston,Charleston / Berkeley / Dorchester,June 1,September 30,$ 249,$ 79
+327,SC,Columbia,Richland / Lexington,,,$ 112,$ 64
+329,SC,Hilton Head,Beaufort,October 1,October 31,$ 163,$ 69
+329,SC,Hilton Head,Beaufort,November 1,February 28,$ 122,$ 69
+329,SC,Hilton Head,Beaufort,March 1,May 31,$ 196,$ 69
+329,SC,Hilton Head,Beaufort,June 1,August 31,$ 235,$ 69
+329,SC,Hilton Head,Beaufort,September 1,September 30,$ 163,$ 69
+330,SC,Myrtle Beach,Horry,October 1,March 31,$ 107,$ 69
+330,SC,Myrtle Beach,Horry,April 1,May 31,$ 130,$ 69
+330,SC,Myrtle Beach,Horry,June 1,August 31,$ 203,$ 69
+330,SC,Myrtle Beach,Horry,September 1,September 30,$ 107,$ 69
+334,SD,Deadwood / Spearfish ,Lawrence,October 1,May 31,$ 107,$ 74
+334,SD,Deadwood / Spearfish ,Lawrence,June 1,September 30,$ 157,$ 74
+332,SD,Hot Springs,Fall River / Custer,October 1,May 31,$ 107,$ 64
+332,SD,Hot Springs,Fall River / Custer,June 1,September 30,$ 152,$ 64
+333,SD,Rapid City,Pennington,October 1,May 31,$ 107,$ 64
+333,SD,Rapid City,Pennington,June 1,August 31,$ 169,$ 64
+333,SD,Rapid City,Pennington,September 1,September 30,$ 107,$ 64
+335,TN,Brentwood / Franklin,Williamson,,,$ 125,$ 69
+336,TN,Chattanooga ,Hamilton,,,$ 117,$ 64
+338,TN,Knoxville,Knox,,,$ 113,$ 64
+339,TN,Memphis,Shelby,,,$ 123,$ 69
+340,TN,Nashville,Davidson,October 1,November 30,$ 237,$ 79
+340,TN,Nashville,Davidson,December 1,January 31,$ 187,$ 79
+340,TN,Nashville,Davidson,February 1,June 30,$ 233,$ 79
+340,TN,Nashville,Davidson,July 1,August 31,$ 210,$ 79
+340,TN,Nashville,Davidson,September 1,September 30,$ 237,$ 79
+342,TX,Arlington / Fort Worth / Grapevine,Tarrant County / City of Grapevine,,,$ 175,$ 64
+343,TX,Austin,Travis,October 1,March 31,$ 184,$ 64
+343,TX,Austin,Travis,April 1,August 31,$ 170,$ 64
+343,TX,Austin,Travis,September 1,September 30,$ 184,$ 64
+486,TX,Big Spring,Howard,,,$ 136,$ 64
+346,TX,Dallas,Dallas ,October 1,December 31,$ 164,$ 69
+346,TX,Dallas,Dallas ,January 1,March 31,$ 182,$ 69
+346,TX,Dallas,Dallas ,April 1,September 30,$ 164,$ 69
+348,TX,Galveston,Galveston,October 1,May 31,$ 107,$ 64
+348,TX,Galveston,Galveston,June 1,July 31,$ 142,$ 64
+348,TX,Galveston,Galveston,August 1,September 30,$ 107,$ 64
+350,TX,Houston,Montgomery / Fort Bend / Harris,,,$ 122,$ 69
+471,TX,Midland / Odessa,Midland / Andrews / Ector / Martin,,,$ 183,$ 64
+492,TX,Pecos,Reeves,,,$ 134,$ 59
+354,TX,Plano,Collin,,,$ 122,$ 64
+356,TX,San Antonio,Bexar,,,$ 143,$ 64
+357,TX,South Padre Island,Cameron,October 1,February 28,$ 108,$ 59
+357,TX,South Padre Island,Cameron,March 1,July 31,$ 130,$ 59
+357,TX,South Padre Island,Cameron,August 1,September 30,$ 108,$ 59
+358,TX,Waco,McLennan,October 1,February 28,$ 107,$ 64
+358,TX,Waco,McLennan,March 1,April 30,$ 123,$ 64
+358,TX,Waco,McLennan,May 1,September 30,$ 107,$ 64
+474,UT,Moab,Grand,October 1,October 31,$ 210,$ 69
+474,UT,Moab,Grand,November 1,February 28,$ 107,$ 69
+474,UT,Moab,Grand,March 1,September 30,$ 210,$ 69
+360,UT,Park City,Summit,October 1,November 30,$ 204,$ 79
+360,UT,Park City,Summit,December 1,March 31,$ 425,$ 79
+360,UT,Park City,Summit,April 1,September 30,$ 204,$ 79
+361,UT,Provo,Utah,,,$ 111,$ 64
+362,UT,Salt Lake City,Salt Lake / Tooele,October 1,March 31,$ 139,$ 64
+362,UT,Salt Lake City,Salt Lake / Tooele,April 1,May 31,$ 132,$ 64
+362,UT,Salt Lake City,Salt Lake / Tooele,June 1,September 30,$ 139,$ 64
+459,VA,Blacksburg,Montgomery,October 1,October 31,$ 134,$ 59
+459,VA,Blacksburg,Montgomery,November 1,June 30,$ 111,$ 59
+459,VA,Blacksburg,Montgomery,July 1,September 30,$ 134,$ 59
+363,VA,Charlottesville,City of Charlottesville / Albemarle,,,$ 133,$ 69
+428,VA,Loudoun,Loudoun,,,$ 116,$ 69
+365,VA,Lynchburg,Campbell / Lynchburg City,,,$ 109,$ 64
+368,VA,Richmond,City of Richmond,,,$ 149,$ 64
+369,VA,Roanoke,City limits of Roanoke,,,$ 122,$ 59
+371,VA,Virginia Beach,City of Virginia Beach,October 1,May 31,$ 120,$ 64
+371,VA,Virginia Beach,City of Virginia Beach,June 1,August 31,$ 222,$ 64
+371,VA,Virginia Beach,City of Virginia Beach,September 1,September 30,$ 120,$ 64
+372,VA,Wallops Island,Accomack,October 1,June 30,$ 129,$ 64
+372,VA,Wallops Island,Accomack,July 1,August 31,$ 245,$ 64
+372,VA,Wallops Island,Accomack,September 1,September 30,$ 129,$ 64
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,October 1,December 31,$ 118,$ 64
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,January 1,March 31,$ 107,$ 64
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,April 1,August 31,$ 137,$ 64
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,September 1,September 30,$ 118,$ 64
+377,VT,Burlington,Chittenden,October 1,October 31,$ 187,$ 69
+377,VT,Burlington,Chittenden,November 1,April 30,$ 125,$ 69
+377,VT,Burlington,Chittenden,May 1,September 30,$ 187,$ 69
+378,VT,Manchester,Bennington,October 1,October 31,$ 225,$ 79
+378,VT,Manchester,Bennington,November 1,July 31,$ 172,$ 79
+378,VT,Manchester,Bennington,August 1,September 30,$ 225,$ 79
+379,VT,Montpelier,Washington,October 1,October 31,$ 214,$ 69
+379,VT,Montpelier,Washington,November 1,July 31,$ 162,$ 69
+379,VT,Montpelier,Washington,August 1,September 30,$ 214,$ 69
+380,VT,Stowe ,Lamoille,October 1,November 30,$ 176,$ 79
+380,VT,Stowe ,Lamoille,December 1,February 28,$ 167,$ 79
+380,VT,Stowe ,Lamoille,March 1,September 30,$ 176,$ 79
+381,VT,White River Junction,Windsor,October 1,October 31,$ 138,$ 64
+381,VT,White River Junction,Windsor,November 1,June 30,$ 118,$ 64
+381,VT,White River Junction,Windsor,July 1,September 30,$ 138,$ 64
+384,WA,Everett / Lynnwood,Snohomish,October 1,May 31,$ 116,$ 74
+384,WA,Everett / Lynnwood,Snohomish,June 1,August 31,$ 139,$ 74
+384,WA,Everett / Lynnwood,Snohomish,September 1,September 30,$ 116,$ 74
+385,WA,Ocean Shores,Grays Harbor,October 1,June 30,$ 111,$ 74
+385,WA,Ocean Shores,Grays Harbor,July 1,August 31,$ 146,$ 74
+385,WA,Ocean Shores,Grays Harbor,September 1,September 30,$ 111,$ 74
+386,WA,Olympia / Tumwater,Thurston,October 1,October 31,$ 132,$ 74
+386,WA,Olympia / Tumwater,Thurston,November 1,August 31,$ 153,$ 74
+386,WA,Olympia / Tumwater,Thurston,September 1,September 30,$ 132,$ 74
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,October 1,June 30,$ 129,$ 74
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,July 1,August 31,$ 219,$ 74
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,September 1,September 30,$ 129,$ 74
+475,WA,Richland / Pasco,Benton / Franklin,,,$ 118,$ 69
+389,WA,Seattle,King,October 1,October 31,$ 232,$ 79
+389,WA,Seattle,King,November 1,April 30,$ 176,$ 79
+389,WA,Seattle,King,May 1,September 30,$ 232,$ 79
+390,WA,Spokane,Spokane,,,$ 127,$ 74
+391,WA,Tacoma,Pierce,,,$ 132,$ 69
+392,WA,Vancouver,Clark / Cowlitz / Skamania,October 1,October 31,$ 182,$ 74
+392,WA,Vancouver,Clark / Cowlitz / Skamania,November 1,May 31,$ 152,$ 74
+392,WA,Vancouver,Clark / Cowlitz / Skamania,June 1,September 30,$ 182,$ 74
+396,WI,Madison,Dane,October 1,October 31,$ 131,$ 64
+396,WI,Madison,Dane,November 1,March 31,$ 109,$ 64
+396,WI,Madison,Dane,April 1,September 30,$ 131,$ 64
+397,WI,Milwaukee,Milwaukee,October 1,May 31,$ 129,$ 64
+397,WI,Milwaukee,Milwaukee,June 1,July 31,$ 155,$ 64
+397,WI,Milwaukee,Milwaukee,August 1,September 30,$ 129,$ 64
+400,WI,Sturgeon Bay,Door,October 1,October 31,$ 128,$ 74
+400,WI,Sturgeon Bay,Door,November 1,May 31,$ 107,$ 74
+400,WI,Sturgeon Bay,Door,June 1,September 30,$ 128,$ 74
+401,WI,Wisconsin Dells,Columbia,October 1,May 31,$ 107,$ 59
+401,WI,Wisconsin Dells,Columbia,June 1,August 31,$ 132,$ 59
+401,WI,Wisconsin Dells,Columbia,September 1,September 30,$ 107,$ 59
+406,WV,Charles Town,Jefferson,,,$ 112,$ 74
+403,WV,Charleston,Kanawha,,,$ 113,$ 64
+408,WY,Cody,Park,October 1,May 31,$ 162,$ 69
+408,WY,Cody,Park,June 1,September 30,$ 282,$ 69
+409,WY,Jackson / Pinedale,Teton / Sublette,October 1,May 31,$ 207,$ 79
+409,WY,Jackson / Pinedale,Teton / Sublette,June 1,September 30,$ 384,$ 79
